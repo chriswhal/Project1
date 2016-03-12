@@ -1,0 +1,1 @@
+this is my first time using powersheel to launch notepad.exe in git.  cool!
