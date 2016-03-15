@@ -7,6 +7,9 @@
 - lunch
 - Working Group sessions
 
+
+    Table - Emerging Technology Working Group Summaries
+
 | Working Group | Description | Next Steps |
 |---------------|-------------|------------|
 |  alternative transport  |  new transport formats, exploring replacements for SAS XPT format, evaluation criteria for new transport formats, **goal at this meeting is to develop initial set of criteria**, content model issues  | Survey for evaluation criteria, beginning for Transport issues white paper  |
@@ -15,7 +18,7 @@
 | statistical computing environment (SCE) | group formed at 2015 CSS, drafted whitepaper and updating with feedback now,  | Phase 2 (2016) use cases, Phase 3 expanding whitepaper |
 | cloud adoption | formed in 2013 when PRISME approached PhUSE, demand for cloud persists and is increasing although issues also persist, tenets for framework, history of framework, emphasis on aligning with predicate rules | framework development (including addition of auditing), agency & industry engagements, PhUSE publication vehicle |
 
-## Cloud Adoption Working Group Breakout
+## Cloud Adoption Working Group Breakout Day 1
 
 ### Attendees:
 * Tony Hewer, mdsol
@@ -45,6 +48,37 @@
   1. What about change control?
 * Socialization & Education/Promotion
 
+## Cloud Adoption Working Group Breakout Day 2
+### Attendees:
+* Tony Hewer, mdsol
+* Anders Vidstrup, nnit
+* Suzanne Studinger, independent
+* Dan Dziadiw, merck
+* Chris Whalley, aws
+* Crystal Allard, FDA
+* __
+* __
+
+
+Data Integrity Guidance
+FDA **>>>** OIM probably writing (CHIO, CIO) **>>>** CDER
+
+    Table - Classification Scheme for Technology
+
+|          | Niche COTS   | General COTS | Custom |
+|----------|----------|----------|----------|  
+|  Applications  |  Medidata, Veeva  | Google Docs   |  Pfizer CTMS Apps, NN/IT       |
+|  Components  |  NN/IT  | Amazon Web Services, MSFT O/S,    |   J&J VPCx       |
+|  Colocation  |  ByteGrid, NN/IT, Validated Cloud  | Rackspace   |          |
+
+Considering alternative to traditional CSV approach.
+* Continuous Qualification
+* Further develop our thinking re: v-model, agile, 
+* DevOps of qualified infrastructure and validated applications
+
+
 ### Next Steps:
 1. 
 1. 
+
+![](https://github.com/chriswhal/project1/blob/master/image.jpeg)
