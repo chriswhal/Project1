@@ -67,8 +67,8 @@ FDA **>>>** OIM probably writing (CHIO, CIO) **>>>** CDER
 
 |          | General COTS   | Niche COTS | Custom |
 |----------|----------|----------|----------|  
-|  Applications  |  Google Docs   | Medidata, Veeva  |  Pfizer CTMS Apps, NN/IT       |
-|  Components  |  Amazon Web Services, MSFT O/S,  | NN/IT    |   J&J VPCx       |
+|  Applications  |  Cloud: Google Docs, Box; Other: MSFT SharePoint   | Cloud: Medidata Rave, Veeva Vault; Other: Sparta Trackwise   |  Cloud: Pfizer CTMS Apps, ; Other: |
+|  Components  |  Cloud: Amazon Web Services, MSFT Azure;  Other: MSFT O/S, MySQL, Cisco Routers | Cloud: NN/IT, Validated Cloud; Other:     |   Cloud: J&J VPCx; Other:        |
 |  Colocation  |  Rackspace  | ByteGrid, NN/IT, Validated Cloud   |          |
 
 Considering alternative to traditional CSV approach.
