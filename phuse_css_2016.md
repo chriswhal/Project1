@@ -65,11 +65,11 @@ FDA **>>>** OIM probably writing (CHIO, CIO) **>>>** CDER
 
     Table - Classification Scheme for Technology
 
-|          | Niche COTS   | General COTS | Custom |
+|          | General COTS   | Niche COTS | Custom |
 |----------|----------|----------|----------|  
-|  Applications  |  Medidata, Veeva  | Google Docs   |  Pfizer CTMS Apps, NN/IT       |
-|  Components  |  NN/IT  | Amazon Web Services, MSFT O/S,    |   J&J VPCx       |
-|  Colocation  |  ByteGrid, NN/IT, Validated Cloud  | Rackspace   |          |
+|  Applications  |  Google Docs   | Medidata, Veeva  |  Pfizer CTMS Apps, NN/IT       |
+|  Components  |  Amazon Web Services, MSFT O/S,  | NN/IT    |   J&J VPCx       |
+|  Colocation  |  Rackspace  | ByteGrid, NN/IT, Validated Cloud   |          |
 
 Considering alternative to traditional CSV approach.
 * Continuous Qualification
